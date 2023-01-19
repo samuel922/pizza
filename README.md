@@ -5,4 +5,4 @@ This project display a photo of a pizza and favorite toppings
 I am a software developer.
 
 ## Contact
-*[Github profile]: www.github.com
+* [Github profile](www.github.com)
